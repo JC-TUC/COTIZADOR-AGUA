@@ -4,7 +4,7 @@
         "nombre": "Agua de Lourdes 355 ml (Caja 24 pzs)",
         "piezas_por_caja": 24,
         "costo_distribuidor_iva": 216.92,
-        "precio_minorista_iva": 309.0,
+        "precio_minorista_iva": 310.0,
         "pvps_caja": 432.0
     },
     {
@@ -20,7 +20,7 @@
         "nombre": "Agua de Lourdes 600 ml (Caja 24 pzs)",
         "piezas_por_caja": 24,
         "costo_distribuidor_iva": 266.6,
-        "precio_minorista_iva": 412.0,
+        "precio_minorista_iva": 410.0,
         "pvps_caja": 552.0
     }
 ]
